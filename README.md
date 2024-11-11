@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sony-Data
+- 👀 I’m interested in Data Analysis and modeling
+- 🌱 I’m currently learning AI In Data Modeling
